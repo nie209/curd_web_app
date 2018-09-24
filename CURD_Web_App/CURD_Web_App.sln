@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURD_Web_App", "CURD_Web_App\CURD_Web_App.csproj", "{FE5B2EAB-942D-4C87-AFB0-68DA8E3CA056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5B2EAB-942D-4C87-AFB0-68DA8E3CA056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5B2EAB-942D-4C87-AFB0-68DA8E3CA056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5B2EAB-942D-4C87-AFB0-68DA8E3CA056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5B2EAB-942D-4C87-AFB0-68DA8E3CA056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E69414B-6947-43D9-BB1A-3E233FACA333}
+	EndGlobalSection
+EndGlobal
