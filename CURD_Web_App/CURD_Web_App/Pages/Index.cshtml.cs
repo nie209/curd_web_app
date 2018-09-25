@@ -12,11 +12,14 @@ namespace CURD_Web_App.Pages
     {
         private readonly AppDbContext _db;
         public IndexModel(AppDbContext db) { _db = db; }
-        public IList<Customer> Customers { get; private set;}
+        public IList<Customer> Customers { get; private set; }
+        [TempData]
+        public string Message { get; set; }
         public async Task OnGetAsync()
         {
             Customers = await _db.Customers.AsNoTracking().ToListAsync();
         }
+       
         public async Task<IActionResult> OnPostDeleteAsync(int id)
         {
             var customer = await _db.Customers.FindAsync(id);
