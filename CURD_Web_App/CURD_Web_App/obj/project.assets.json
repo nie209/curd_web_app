@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\University\\ASP.Net core\\CURD_app\\CURD_Web_App\\CURD_Web_App\\CURD_Web_App.csproj",
+      "projectUniqueName": "C:\\Users\\wilson\\Desktop\\repo\\curd_web_app\\CURD_Web_App\\CURD_Web_App\\CURD_Web_App.csproj",
       "projectName": "CURD_Web_App",
-      "projectPath": "F:\\University\\ASP.Net core\\CURD_app\\CURD_Web_App\\CURD_Web_App\\CURD_Web_App.csproj",
+      "projectPath": "C:\\Users\\wilson\\Desktop\\repo\\curd_web_app\\CURD_Web_App\\CURD_Web_App\\CURD_Web_App.csproj",
       "packagesPath": "C:\\Users\\wilson\\.nuget\\packages\\",
-      "outputPath": "F:\\University\\ASP.Net core\\CURD_app\\CURD_Web_App\\CURD_Web_App\\obj\\",
+      "outputPath": "C:\\Users\\wilson\\Desktop\\repo\\curd_web_app\\CURD_Web_App\\CURD_Web_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
